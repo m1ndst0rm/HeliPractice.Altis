@@ -1,0 +1,1 @@
+call compile preprocessFile "helipractice\init.sqf";

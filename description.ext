@@ -1,0 +1,21 @@
+#include "helipractice\ui\helipractice.hpp"
+
+class Header
+{
+	gameType = DM; //game type
+	minPlayers = 1; //min # of players the mission supports
+	maxPlayers = 32; //max # of players the mission supports
+};
+
+author="M1nd0";
+OnLoadName = "Heli Pratice";
+onLoadMission = "Practice your pilot skills.";
+OnLoadMissionTime = true;
+
+disabledAI = 0;
+respawn = 3;
+respawnDelay = 0;
+respawnDialog = 0;
+showPad = 0;
+
+//allowFunctionsLog = 1;
